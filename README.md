@@ -46,8 +46,6 @@ ds_mritunjay_singh/
 
 ## Google Colab Notebook
 Access the complete analysis notebook here:  
-**(Set access to “Anyone with the link can view”)**
-
 👉 (https://colab.research.google.com/drive/1Bh3VYwVfAyFNXD5zVwzIcmAZJOjvW0IE?usp=sharing)
 
 ## Results
