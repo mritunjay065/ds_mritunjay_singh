@@ -36,12 +36,19 @@ Cryptocurrency markets are highly driven by investor emotions such as fear and g
 ## Project Structure
 ds_mritunjay_singh/
 ├── notebook_1.ipynb
+
 ├── ds_report.pdf
+
 ├── README.md
+
 ├── csv_files/
+
 │ └── merged_data.csv
+
 └── outputs/
+
 ├── pnl_vs_sentiment.png
+
 └── trade_size_vs_sentiment.png
 
 ## Google Colab Notebook
