@@ -46,12 +46,11 @@ ds_mritunjay_singh/
 
 ## Google Colab Notebook
 Access the complete analysis notebook here:  
-**(Set access to “Anyone with the link can view”)**
-
-👉 https://colab.research.google.com/drive/PASTE_YOUR_NOTEBOOK_LINK_HERE
+https://colab.research.google.com/drive/1Bh3VYwVfAyFNXD5zVwzIcmAZJOjvW0IE?usp=sharing
 
 ## Results
 The analysis demonstrates that market sentiment is strongly associated with changes in trader behavior and performance. While Fear-driven markets encourage higher participation and larger trades, Greed-driven markets provide better trade-level efficiency and win rates.
 
 ## Conclusion
 Market sentiment serves as a valuable contextual indicator rather than a standalone trading signal. Incorporating sentiment awareness into trading decisions can enhance risk management and improve overall trading performance in volatile cryptocurrency markets.
+
